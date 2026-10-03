@@ -29,7 +29,7 @@ export const companies: Record<CompanyId, CompanyData> = {
     descriptor: 'Product intelligence',
     role: 'Discover. Validate. De-risk.',
     statement: 'Turn a promising idea into a decision you can stand behind.',
-    logoSrc: '/assets/evidr-logo.png',
+    logoSrc: '/evidr_synccode/assets/evidr-logo.png',
     logoAlt: 'EVIDR logo',
     accent: '#5D72FF',
     links: [
@@ -53,7 +53,7 @@ export const companies: Record<CompanyId, CompanyData> = {
     descriptor: 'Product engineering',
     role: 'Architect. Engineer. Ship.',
     statement: 'Build the digital product that your signal deserves.',
-    logoSrc: '/assets/syn-code-logo.jpg',
+    logoSrc: '/evidr_synccode/assets/syn-code-logo.jpg',
     logoAlt: 'Syn-Code logo',
     accent: '#45E4DC',
     links: [
